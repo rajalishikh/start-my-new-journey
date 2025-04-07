@@ -1,4 +1,5 @@
 import './App.css'
+import Navbar from './Component/Navbar/Navbar'
 import './index.css'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-      <button className="btn btn-secondary">Secondary</button>
+      <Navbar></Navbar>
       
      
       
